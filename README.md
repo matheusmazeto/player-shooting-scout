@@ -16,11 +16,18 @@ Research question:
 - xG per shot
 - Goals minus xG
 
-### Data
+### Dataset
 
-Data provided by StatsBomb Open Data.
+- Competition: Bundesliga
+- Season ID: 281
+- Data source: [StatsBomb Open Data](https://github.com/statsbomb/open-data)
 
-### Running the project
+### Project Structure
+
+- `notebooks/01_scout_finalizacoes.ipynb`
+- `reports/figures/`
+
+### Running the Project
 
 ```bash
 uv sync
